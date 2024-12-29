@@ -157,5 +157,4 @@ VALUES
 ('D', 'D1', '1995-03-20', 4, 4); -- Marketing, Team Lead
 
 
-## Docker Deployment
 
