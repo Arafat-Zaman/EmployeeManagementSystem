@@ -102,20 +102,6 @@ EmployeeManagementSystem/
 
 
 
-## Docker Deployment
-1. Build the Docker image:
-   ```bash
-   docker build -t employee-management-system .
-   ```
-2. Run the Docker container:
-   ```bash
-   docker run -p 8080:80 employee-management-system
-   ```
-
-
-
-
-
 ## Database 
 
 -- Create Database
@@ -171,4 +157,7 @@ VALUES
 ('B', 'B1', '1990-09-15', 1, 2), -- HR, Manager
 ('C', 'C1', '1988-12-10', 3, 3), -- Finance, Analyst
 ('D', 'D1', '1995-03-20', 4, 4); -- Marketing, Team Lead
+
+
+## Docker Deployment
 
