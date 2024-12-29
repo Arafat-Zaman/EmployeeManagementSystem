@@ -31,8 +31,6 @@ This project is an ASP.NET Core Web API for managing employees, departments, and
 8. **Scalability and Modularity**:
    - Implements the CQRS pattern for separate command (write) and query (read) operations.
 
-9. **Containerization**:
-   - Docker support for seamless deployment.
 
 
 ## **Technology Stack**
