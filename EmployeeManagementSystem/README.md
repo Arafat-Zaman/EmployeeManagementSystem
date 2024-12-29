@@ -44,13 +44,13 @@ This project is an ASP.NET Core Web API for managing employees, departments, and
 - **Architecture**:
   - Vertical Slicing
   - CQRS Pattern
-- **Deployment**: Docker
+
 
 
 ## Prerequisites
 - [.NET SDK](https://dotnet.microsoft.com/download)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [Docker](https://www.docker.com/)
+
 
 
 
