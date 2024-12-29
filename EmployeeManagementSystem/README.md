@@ -85,11 +85,11 @@ EmployeeManagementSystem/
 ## Setup
 1. Clone the repository:
    
-   git clone https://github.com/YourRepo/EmployeeManagementSystem.git
+   git clone https://github.com/Arafat-Zaman/EmployeeManagementSystem.git
    
 2. Configure `appsettings.json`:
    - Set the `DefaultConnection` string for your SQL Server.
-   - Update the `JwtConfig` settings.
+  
 
 3. Run the application:
    
